@@ -1,0 +1,3 @@
+Morning: 51
+Afternoon: 23
+Evening: 19
